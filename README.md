@@ -1,6 +1,11 @@
 # Github wiki test repo
 
-![Impala](https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Serengeti_Impala3.jpg/600px-Serengeti_Impala3.jpg)
+![Impala](https://s-media-cache-ak0.pinimg.com/originals/0d/b8/55/0db855316c28cd95df0046b992981d23.jpg)
+
+| Juttu | Asia |
+|:------|-------:|
+|Juttu 1 | Asia 1 |
+| Juttu 2 | Asia 2 |
 
 ## Alaotsikko
 
